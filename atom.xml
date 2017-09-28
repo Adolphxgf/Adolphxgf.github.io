@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/xgflovezty.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://adolphxgf.github.io/xgflovezty.github.io/"/>
   <updated>2017-09-28T05:51:22.027Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://adolphxgf.github.io/xgflovezty.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>article title</title>
-    <link href="http://yoursite.com/2017/09/28/article-title/"/>
-    <id>http://yoursite.com/2017/09/28/article-title/</id>
+    <link href="https://adolphxgf.github.io/xgflovezty.github.io/2017/09/28/article-title/"/>
+    <id>https://adolphxgf.github.io/xgflovezty.github.io/2017/09/28/article-title/</id>
     <published>2017-09-28T05:49:49.000Z</published>
     <updated>2017-09-28T05:51:22.027Z</updated>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/28/hello-world/"/>
-    <id>http://yoursite.com/2017/09/28/hello-world/</id>
+    <link href="https://adolphxgf.github.io/xgflovezty.github.io/2017/09/28/hello-world/"/>
+    <id>https://adolphxgf.github.io/xgflovezty.github.io/2017/09/28/hello-world/</id>
     <published>2017-09-28T02:47:11.619Z</published>
     <updated>2017-09-28T02:47:11.619Z</updated>
     
